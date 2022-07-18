@@ -11,7 +11,7 @@
 ```javascript
 const zakZubair = {
     pronouns: "he" | "him" | "his",
-    code: [Javascript, HTML, CSS, ],
+    code: ["Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
