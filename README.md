@@ -10,14 +10,14 @@
 ```javascript
 const zakZubair = {
     pronouns: "he" | "him" | "his",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["React", "React Native", "Node.js", "Typescript", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["tailwindcss", "bootstrap", "materialize"]
+            CSS: ["styled-components", "tailwindcss", "bootstrap", "materialize"]
         },
         backEnd: {
-            js: ["node", "firebase"],
+            js: ["node.js", "firebase"],
             php: ["symfony"]
         }        
     }
