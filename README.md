@@ -10,16 +10,18 @@
 ```javascript
 const zakZubair = {
     pronouns: "he" | "him" | "his",
-    code: ["React", "React Native", "Node.js", "Typescript", "Javascript", "HTML", "CSS"],
+    code: ["React", "React Native", "Node.js", "Typescript", "Javascript"],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            CSS: ["styled-components", "tailwindcss", "bootstrap", "materialize"]
+            CSS: ["styled-components", "tailwindcss"]
         },
         backEnd: {
-            js: ["node.js", "firebase"],
+            js: ["node.js", "Express", "firebase"],
             php: ["symfony"]
-        }        
+        },
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
+        databases: ["mongo", "MySql", "sqlite"]  
     }
 };
 ```
