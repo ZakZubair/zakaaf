@@ -13,17 +13,18 @@ const zakZubair = {
     code: ["React", "React Native", "Node.js", "Typescript", "Javascript"],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
+        languages: ["Typescript", "Javascript", "php"],
         frontEnd: {
-            frameworks: ["React", "React Native"],
+            frameworks: ["React"],
             cssFrameworks: ["linaria", "styled-components", "tailwindcss", "SCSS"],
         },
         backEnd: {
-            js: ["node.js", "Express", "firebase", "GraphQL", "REST API"],
-            php: ["symfony"]
+            frameworks: ["node.js", "Express", "firebase", "symfony"],
         },
+        mobile: ["React Native"]
         testing: ["Jest", "React Testing Library", "Cypress"],
-        devOps: ["AWS", "Docker🐳", "Kubernetes"],
-        databases: ["mongo", "MySql", "sqlite"]  
+        cloudNative: ["AWS", "Docker🐳", "Kubernetes", "Serverless"],
+        services: ["Mongo DB", "MySql", "Dynamo DB"]  
     }
 };
 ```
