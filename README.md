@@ -2,7 +2,7 @@
 
 ## Hi there 👋 Welcome to my GitHub! I'm Zak Zubair, Full-stack Developer
 
-![Twitter Follow](https://img.shields.io/twitter/follow/zakaaf?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zakaaf?style=social)](https://twitter.com/zakaaf)
 [![Linkedin: zakaaf](https://img.shields.io/badge/-ZakZubair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakaaf/)](https://www.linkedin.com/in/zakaaf/)
 
 ### aboutMe.js
