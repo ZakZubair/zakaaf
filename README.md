@@ -14,10 +14,10 @@ const zakZubair = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            CSS: ["styled-components", "tailwindcss"]
+            CSS: ["styled-components", "tailwindcss", "SCSS"]
         },
         backEnd: {
-            js: ["node.js", "Express", "firebase"],
+            js: ["node.js", "Express", "firebase", "GraphQL", "REST API"],
             php: ["symfony"]
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
