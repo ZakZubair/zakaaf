@@ -14,12 +14,14 @@ const zakZubair = {
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
         frontEnd: {
-            CSS: ["styled-components", "tailwindcss", "SCSS"]
+            frameworks: ["React", "React Native"],
+            cssFrameworks: ["linaria", "styled-components", "tailwindcss", "SCSS"],
         },
         backEnd: {
             js: ["node.js", "Express", "firebase", "GraphQL", "REST API"],
             php: ["symfony"]
         },
+        testing: ["Jest", "React Testing Library", "Cypress"],
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql", "sqlite"]  
     }
