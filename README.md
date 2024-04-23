@@ -21,10 +21,10 @@ const zakZubair = {
         backEnd: {
             frameworks: ["node.js", "Express", "firebase", "symfony"],
         },
-        mobile: ["React Native"]
+        mobile: ["React Native"],
         testing: ["Jest", "React Testing Library", "Cypress"],
         cloudNative: ["AWS", "Docker🐳", "Kubernetes", "Serverless"],
-        services: ["Mongo DB", "MySql", "Dynamo DB"]  
+        services: ["Mongo DB", "MySql", "Dynamo DB"],
     }
 };
 ```
