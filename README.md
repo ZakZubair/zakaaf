@@ -15,7 +15,7 @@ const zakZubair = {
     technologies: {
         languages: ["Typescript", "Javascript", "php"],
         frontEnd: {
-            frameworks: ["React"],
+            frameworks: ["React", "Next.js", "Gatsby"],
             cssFrameworks: ["linaria", "styled-components", "tailwindcss", "SCSS"],
         },
         backEnd: {
